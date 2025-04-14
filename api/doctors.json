@@ -5,11 +5,6 @@
     "version": "1.0.0",
     "description": "API to retrieve doctor information based on specialization and location."
   },
-  "servers": [
-    {
-      "url": "https://iwonadesouza.github.io/doctors/api/doctors.json"
-    }
-  ],
   "paths": {
     "/doctors": {
       "get": {
