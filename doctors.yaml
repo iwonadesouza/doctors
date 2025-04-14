@@ -6,7 +6,6 @@ info:
 servers:
   - url: "https://iwonadesouza.github.io/doctors/doctors.yaml"
 paths:
-  /doctors:
     get:
       summary: "Get a list of doctors"
       description: "Retrieve a list of doctors with optional filters for specialization and location."
